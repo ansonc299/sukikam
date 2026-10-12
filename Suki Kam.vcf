@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.0.1//EN
+N:金倩淇;Suki Kam;;;
+FN:Suki Kam 金倩淇
+ORG:International Finance Centre Management Co.\, Ltd.
+TITLE:HR & Admin. Officer
+item1.EMAIL;type=INTERNET;type=pref:sukikam@ifc.com.hk
+item1.X-ABLabel:Email
+item2.TEL;type=pref:+85212345678
+item2.X-ABLabel:Direct
+item3.TEL:+85223456789
+item3.X-ABLabel:Telephone
+item4.TEL:+85234567890
+item4.X-ABLabel:Fax
+item5.ADR;type=pref:;;;;;;Suite 2013\, 20/F\, Two International Finance Centre\, 8 Finance Street\, Central\, Hong Kong
+item5.X-ABLabel:Address
+item5.X-ABADR:hk
+item6.URL;type=pref:https://www.ifc.com.hk
+item6.X-ABLabel:Company Website
+END:VCARD
